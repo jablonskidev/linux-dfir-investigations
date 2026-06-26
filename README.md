@@ -1,2 +1,9 @@
-# linux-dfir-investigations
-Hands-on Linux DFIR investigations: documented methodology and evidence-based findings
+# Linux DFIR Investigations
+
+This repository documents my hands-on Linux DFIR investigations.
+
+## Investigations
+
+| Investigation | Artifacts | Tools |
+|---------------|-----------|-------|
+|               |           |       |
